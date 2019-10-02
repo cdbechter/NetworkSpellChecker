@@ -1,0 +1,4 @@
+dog CORRECT
+cat CORRECT
+hey INCORRECT
+fish CORRECT
